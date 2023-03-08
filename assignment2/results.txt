@@ -1,0 +1,19 @@
+Mean RSSI for channel 11 after 15 seconds = -90 
+Mean RSSI for channel 12 after 15 seconds = -92 
+Mean RSSI for channel 13 after 15 seconds = -88 
+Mean RSSI for channel 14 after 15 seconds = -92 
+Mean RSSI for channel 15 after 15 seconds = -90 
+Mean RSSI for channel 16 after 15 seconds = -91 
+Mean RSSI for channel 17 after 15 seconds = -91 
+Mean RSSI for channel 18 after 15 seconds = -91 
+Mean RSSI for channel 19 after 15 seconds = -88 
+Mean RSSI for channel 20 after 15 seconds = -93 
+Mean RSSI for channel 21 after 15 seconds = -86 
+Mean RSSI for channel 22 after 15 seconds = -87 
+Mean RSSI for channel 23 after 15 seconds = -84 
+Mean RSSI for channel 24 after 15 seconds = -93 
+Mean RSSI for channel 25 after 15 seconds = -91 
+Mean RSSI for channel 26 after 15 seconds = -91 
+The channel with best RSSI is: channel 20, RSSI -93
+
+
